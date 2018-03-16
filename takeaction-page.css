@@ -34,7 +34,7 @@ article.col{
 
 
 article.col section {
-  width: 93%;
+  width: 73%;
   margin:  0 3.5% ;
   min-height: 200px;
   float: left;
@@ -60,7 +60,7 @@ article.col section ul li a{
 }
 
 
-
+ 
 article.col section h3{
   text-align: left;
   margin-bottom: 10px;
