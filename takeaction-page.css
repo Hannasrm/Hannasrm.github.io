@@ -46,12 +46,15 @@ article.col section {
 article.col section ul{
 
   float: left;
-  
+   text-decoration: none;
   /*text-align:center;*/
   font-weight: 550;
  
 }
 
+article.col section ul li {
+      text-decoration: none;
+}
 article.col section ul li a{
       text-decoration: none;
 }
@@ -71,7 +74,7 @@ article.col p{
  min-height:100%;
  margin:0;
 }
-
+   
 
 article.col-2{
   padding-top: 3.5%;
