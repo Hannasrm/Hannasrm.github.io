@@ -14,7 +14,7 @@ body {
 body::after {
   content: "";
   background: url(rainforest.jpeg);
-  opacity: 0.3;
+  opacity: 0.35;
   top: 0;
   left: 0;
   bottom: 0;
