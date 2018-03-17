@@ -12,8 +12,8 @@ body {
 }
 
 body::after {
-
-  background: url(rainforest2.jpeg);
+  content: "";
+  background: url(rainforest.jpeg);
   opacity: 0.5;
   top: 0;
   left: 0;
@@ -51,15 +51,12 @@ article.col section h3{
   padding-top:8%;
   font-size:20px;
   font-weight:850;
-
- 
  
 }
 
 article.col p{
  min-height:100%;
  margin:0;
-
 }
 
 article.col-2 section{
@@ -162,9 +159,4 @@ header h1 {
 
 
 
-
-
-      
-
-     
 
