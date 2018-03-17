@@ -34,13 +34,14 @@ article.col{
 
 
 article.col section {
-  width: 73%;
+  width: 63%;
   margin:  0 3.5% ;
   min-height: 200px;
   float: left;
   /*background-color: #aaa;*/
   /*text-align:center;*/
   font-weight: 550;
+  text-decoration: none; 
 }
 
 article.col section ul{
@@ -49,6 +50,7 @@ article.col section ul{
    text-decoration: none;
   /*text-align:center;*/
   font-weight: 550;
+   text-decoration: none; 
  
 }
 
