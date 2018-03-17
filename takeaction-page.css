@@ -42,6 +42,7 @@ article.col section {
   /*text-align:center;*/
   font-weight: 550;
   text-decoration: none; 
+    font-family:  Helvetica, Arial, sans-serif;
 }
 
 article.col section ul{
@@ -59,6 +60,7 @@ article.col section ul li {
 }
 article.col section ul li a{
       text-decoration: none;
+    font-family:  Helvetica, Arial, sans-serif;
 }
 
 
@@ -75,6 +77,7 @@ article.col section h3{
 article.col p{
  min-height:100%;
  margin:0;
+    font-family:  Helvetica, Arial, sans-serif;
 }
    
 
@@ -100,6 +103,7 @@ footer{
   height:40px;
   margin: 0 2.5%;
   padding-top:2.8%;
+    font-family:  Helvetica, Arial, sans-serif;
 }
 
 footer h4{
