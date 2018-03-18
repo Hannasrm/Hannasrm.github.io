@@ -120,8 +120,8 @@ header li a {
 }
 
 header li:hover {
-
-  background-color: #666;
+  background-color:black;
+ /* background-color: #666;*/
 
 }
 
