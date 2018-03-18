@@ -51,15 +51,7 @@ article.col p{
  margin:0;
  font-family:  Helvetica, Arial, sans-serif;
 }
-/*
-article.col-2 section{
-  width: 20%;
-  min-height: 200px;
-  margin: 0 2.5%;
-  float: left;
-  background-color: #aaa;
 
-}*/
 
 footer{
   height:40px;
@@ -109,7 +101,7 @@ header li a {
 
 header li:hover {
 
-  background-color: #666;
+  background-color: black;
 
 }
 
