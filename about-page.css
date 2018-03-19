@@ -1,7 +1,6 @@
 @import 'main-css.css';
 
 
-
 body {
   width: 100%;
   min-height: 100vh;
@@ -40,8 +39,6 @@ article.col section {
   margin:  0 3.5% ;
   min-height: 200px;
   float: left;
-/*background-color: #aaa;*/
-  /*text-align:center;*/
    font-weight: 550;
 
 }
@@ -51,14 +48,14 @@ article.col section h3{
   padding-top:8%;
   font-size:20px;
   font-weight:850;
-    font-family:  Helvetica, Arial, sans-serif;
+  font-family:  Helvetica, Arial, sans-serif;
  
 }
 
 article.col p{
  min-height:100%;
  margin:0;
-  font-family:  Helvetica, Arial, sans-serif;
+ font-family:  Helvetica, Arial, sans-serif;
 }
 
 article.col-2 section{
@@ -66,9 +63,7 @@ article.col-2 section{
   max-height: 500px;
   margin: 0 2.5% ;
   float: left;
- /*background-color: #aaa;*/
   text-align: center;
- /* padding-right:4.5%;*/
 
 }
 
@@ -76,7 +71,7 @@ footer{
   height:40px;
   margin: 0 2.5%;
   padding-top:2.8%;
-    font-family:  Helvetica, Arial, sans-serif;
+  font-family:  Helvetica, Arial, sans-serif;
 }
 
 footer h4{
@@ -87,8 +82,6 @@ footer h4{
 header {
   min-height: 50px;
   background-color:#009900;
-/*
-  background-color: #a6a6a6;*/
 
 }
 
@@ -121,7 +114,6 @@ header li a {
 
 header li:hover {
   background-color:black;
- /* background-color: #666;*/
 
 }
 
@@ -130,15 +122,10 @@ header li:visited{
 }
 
 
-
-
 header li a:hover{
   color: white;
 
 }
-
-
- 
 
 
 header h1 {
