@@ -1,9 +1,6 @@
 @import 'final-main-css.css';
 
 
-
-
-
 footer{
   height:40px;
   margin: 0 2.5%;
@@ -50,14 +47,10 @@ header li a {
   font-weight: 500;
 }
 
-header li:hover {
-  background-color:black;
 
-}
 
-header li:visited{
-  background-color:purple;
-}
+
+
 
 
 header li a:hover{
@@ -109,34 +102,6 @@ body {
 
    
 
-
-
-/*
-.carousel-control-prev-icon, .carousel-control-next-icon {
-    height: 100px;
-    width: 100px;
-    outline: none;
-    background-color: #009900 ;
-    background-size: 100%, 100%;
-    border-radius: 50%;
-    border: 1px solid green;
-    color: #009900;
-}
-
-.carousel-control-next-icon:after {
-	content: '>';
-	color:black;
-	font-size: 100px; 
-
-}
-
-.carousel-control-prev-icon:after {
-	content: '<';
-	font-size: 100px; 
-	color:black;
-	
-}
-*/
 
 .wrapper{
     height:100%;
@@ -209,40 +174,3 @@ body {
 	border-radius:100%;
 
 }
-
-
-/*
-.left carousel-control,
-.right carousel-control {
-  height: 80px;
-  width: 80px;
-  outline: black;
-  background-size: 100%, 100%;
-  border-radius: 50%;
-  border: 3px solid black;
-  background-image: none;
-  color: #009900;
-  opacity:.8;
- 
-
-}
-.left carousel-control:after{
-  content: '->';
-  font-size: 40px;
-  color: #009900;
-  font-weight:500;
-}
-
-
-.right carousel-control:after
-{
-  content: '->';
-  font-size: 40px;
-  color: #009900;
-  font-weight:500;
-}
-
-
-*/
-
-
